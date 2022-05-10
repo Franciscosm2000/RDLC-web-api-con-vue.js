@@ -1,0 +1,16 @@
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.deps.json
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.runtimeconfig.json
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.dll
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Datos.pdb
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Entidades.dll
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\bin\Debug\netcoreapp2.2\Sistema.Entidades.pdb
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.AssemblyInfo.cs
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.csproj.CopyComplete
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.dll
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.pdb
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Datos\obj\Debug\netcoreapp2.2\Sistema.Datos.genruntimeconfig.cache

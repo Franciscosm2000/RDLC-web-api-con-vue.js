@@ -1,0 +1,9 @@
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\bin\Debug\netcoreapp2.2\Sistema.Entidades.deps.json
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\bin\Debug\netcoreapp2.2\Sistema.Entidades.dll
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\bin\Debug\netcoreapp2.2\Sistema.Entidades.pdb
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\obj\Debug\netcoreapp2.2\Sistema.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\obj\Debug\netcoreapp2.2\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\obj\Debug\netcoreapp2.2\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\obj\Debug\netcoreapp2.2\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\obj\Debug\netcoreapp2.2\Sistema.Entidades.dll
+C:\Users\francisco.sandoval\Documents\SISTEMATICO\.NET\Sistema.RentaCar\Sistema.Entidades\obj\Debug\netcoreapp2.2\Sistema.Entidades.pdb
